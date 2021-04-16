@@ -12,8 +12,8 @@ Depoimentos de dedicação não aplicado.
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/adriano-de-jesus)
-* [Medium](https://www.linkedin.com/feed/)
+* [LinkedIn](https://www.linkedin.com/feed/)
+* [Medium]
 
 
 ## Projetos:
